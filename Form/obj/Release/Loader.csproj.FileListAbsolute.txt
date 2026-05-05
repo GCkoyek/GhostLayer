@@ -1,0 +1,30 @@
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\GhostLayer.exe.config
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\GhostLayer.exe
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\KeyAuth.Main.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\KeyAuth.Login.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\GhostLayer.Properties.Resources.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\KeyAuth.UserInfo.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\GhostLayer.exe
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\GhostLayer.exe.config
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\GhostLayer.exe
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\KeyAuth.Logs.resources
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\KeyAuth.Main.resources
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\KeyAuth.Login.resources
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\GhostLayer.Properties.Resources.resources
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\KeyAuth.UserInfo.resources
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\GhostLayer.exe
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\MetroFramework.dll
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\MetroFramework.Fonts.dll
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\System.ValueTuple.dll
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\Microsoft.Toolkit.Uwp.Notifications.xml
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\bin\Release\System.ValueTuple.xml
+C:\Users\wojte\Desktop\GhostLayer spoofer\Form\obj\Release\Loader.csproj.Up2Date

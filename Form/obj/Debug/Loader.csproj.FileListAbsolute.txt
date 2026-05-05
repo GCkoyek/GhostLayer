@@ -1,0 +1,10 @@
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Debug\Loader.exe.config
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Debug\Loader.exe
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\Loader.csproj.AssemblyReference.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\KeyAuth.Main.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\KeyAuth.Login.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\Loader.exe
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\Loader.Properties.Resources.resources
+C:\Users\wojte\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Debug\KeyAuth.UserInfo.resources
